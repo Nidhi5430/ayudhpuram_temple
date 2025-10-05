@@ -25,3 +25,7 @@ include('header.php');
           </div>
   </div>
       <!-- end why section -->
+<?php
+include('footer1.php');
+
+?>
